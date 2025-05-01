@@ -12,3 +12,30 @@ Kartu dibuat menggunakan elemen HTML dasar dan dihiasi dengan CSS eksternal (`st
 
 ## 🧾 Struktur File
 
+
+## 🔧 Cara Menjalankan
+
+1. **Download** atau **clone** repository ini.
+2. Pastikan file `index.html` dan `style.css` berada dalam folder yang sama.
+3. Buka `index.html` di browser favorit Anda.
+
+## 📷 Pratinjau
+
+(Tambahkan tangkapan layar di sini jika tersedia)
+
+## 🎨 Teknologi
+
+- HTML5
+- CSS3
+
+## 📬 Kontribusi
+
+Kontribusi terbuka! Jika Anda memiliki ide untuk menambahkan animasi, suara, atau interaktivitas lainnya, silakan buat pull request.
+
+## 💖 Lisensi
+
+Proyek ini bersifat bebas digunakan dan dibagikan untuk keperluan personal dan edukatif.
+
+---
+
+Selamat Hari Valentine! 🌹
