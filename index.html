@@ -35,10 +35,18 @@
     </div>
   </div>
   
-  <audio autoplay loop>
-  <source src="https://youtu.be/7maJOI3QMu0?si=YeCLT0yiTXi3Dh0R" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+  <!-- AUDIO PLAYER -->
+  <audio id="bg-music" autoplay loop controls style="display:none">
+    <source src="https://youtu.be/7maJOI3QMu0?si=18UWlDWct-qLAbeh" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <script>
+    // Try to play music after user interaction if autoplay is blocked
+    document.body.addEventListener('click', function () {
+      document.getElementById('bg-music').play();
+    });
+  </script>
   
 </body>
 </html>
