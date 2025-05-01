@@ -1,39 +1,14 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>Valentines Day Card</title>
-  <link rel="stylesheet" href="./style.css">
+# 💌 Valentine's Day Card
 
-</head>
-<body>
- 
-  <div id="card">
-    <center><h1>Valentines Day Card </h1></center>
-    <div class="heart" id="heart1">
-      <div id="half1">
-        <div id="circle"></div>
-        <div id="rec"></div>
-      </div>
-      <div id="half2">
-        <div id="circle"></div>
-        <div id="rec"></div>
-      </div>
-    </div>
-    <div id="message">
-      <h2>Happy Valentines Day</h2>
-    </div>
-    <div class="heart" id="heart2">
-      <div id="half1">
-        <div id="circle"></div>
-        <div id="rec"></div>
-      </div>
-      <div id="half2">
-        <div id="circle"></div>
-        <div id="rec"></div>
-      </div>
-    </div>
-  </div>
-  
-</body>
-</html>
+Proyek ini adalah kartu ucapan Hari Valentine sederhana berbasis HTML dan CSS. Kartu ini menampilkan dua ikon hati dan pesan "Happy Valentines Day".
+
+## 📄 Deskripsi
+
+Kartu dibuat menggunakan elemen HTML dasar dan dihiasi dengan CSS eksternal (`style.css`) untuk tampilan visual. Elemen utama termasuk:
+
+- Judul "Valentines Day Card"
+- Dua ikon hati yang dibentuk dari elemen div
+- Pesan tengah: "Happy Valentines Day"
+
+## 🧾 Struktur File
+
